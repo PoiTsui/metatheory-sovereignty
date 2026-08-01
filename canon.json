@@ -1,0 +1,16 @@
+{
+  "theory_name": "元理论：状态变更的广义度量理论",
+  "first_principles": "物质、能量、信息三元约束",
+  "core_equation": "I = (ΔS·ρ) / (E·ln(K))",
+  "key_constants": {
+    "K_COLLAPSE": 3.333,
+    "OMEGA_CR": 6.3,
+    "SLIMIT": 42
+  },
+  "theory_body_hash": "ca4cca1515bf4a5377932fec816fc814f7d0cb55eace414ad5be421ce39997a2",
+  "static_sovereignty_fingerprint": "c6bd8f4623aded6e759344d1de4511a21c903d4e678d4bea65f547b18f1221fd38c7b23f627d10359908d71615c8d2cafabb6010298a416feabdbd1d5e7851c1",
+  "author": "崔一博 (Poi·Tsui)",
+  "salt": "Metatheory-Sovereignty-Salt-v1",
+  "pbkdf2_iterations": 600000,
+  "hash_algorithm": "sha512"
+}
